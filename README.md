@@ -10,7 +10,6 @@
 Questions? Email us at civicdata@copbfl.com 
 
 ### :wrench: Tools
-* [Datazar](https://www.datazar.com)
 
 * [Kumu](http://kumu.io)
 
@@ -20,6 +19,8 @@ Questions? Email us at civicdata@copbfl.com
 ### :book: Guides
 
 ## Here is some data we recommend you work with:
+
+
 
 ## Schedule
 
