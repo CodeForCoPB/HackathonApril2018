@@ -82,3 +82,4 @@ Each group will present their progress, information discovered and supplied for 
 If you see an idea that you're interested in, click on it, read the discussion and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/Code-for-Miami/OpenDataDay2018/issues/new). Someone from the Code for Miami Staff will respond with some questions or feedback.
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
+
