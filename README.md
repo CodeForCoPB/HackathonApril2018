@@ -68,7 +68,7 @@ Each group will present their progress, information discovered and supplied for 
 ## Presentation Information
 
 - Length: 5 mins
-- [:computer: Please copy and paste into your own presentation](https://docs.google.com/presentation/d/1IKsq7ibQmzMiYRsv_AFuXrhgaLqNDfM-bFfxpRSY-aE/edit?usp=sharing)
+- :computer: Please see presentation template above
 
 ## Wondering how to propose or discuss your project ideas?
 
