@@ -48,11 +48,11 @@ Benefit: No brainer…now let’s have FUN!!!
 
 **9:00** — Breakfast
 
-**9:20 - 9:30** — Opening Remarks (Mayor(http://pompanobeachfl.gov/pages/commission_mayor/mayor))
+**9:20 - 9:30** — Opening Remarks ([Mayor](http://pompanobeachfl.gov/pages/commission_mayor/mayor))
 
-**9:30 - 9:45** — Whitney Rawls(https://www.linkedin.com/in/wrawls) (Guest Speaker) 
+**9:30 - 9:45** — [Whitney Rawls](https://www.linkedin.com/in/wrawls) (Guest Speaker) 
 
-**9:45 - 10:00** — Brainstorm & Teaming with Rob Davis Code for Fort. Lauderdale(http://codeforftl.org/)
+**9:45 - 10:00** — Brainstorm & Teaming with Rob Davis [Code for Fort. Lauderdale](http://codeforftl.org/)
 
 **10:00 - 12:00** — Start projects  
 
