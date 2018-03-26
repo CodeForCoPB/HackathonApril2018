@@ -46,22 +46,23 @@ Benefit: No brainer…now let’s have FUN!!!
 
 ## Schedule
 
-**09:00** — Breakfast
+**9:00** — Breakfast
 
-**09:30** — Opening Remarks 
-**10:00** — Start Projects
+**9:20 - 9:30** — Opening Remarks (Mayor)
 
-**10:00-12:00** — WORKSHOP: 
+**9:30 - 9:45** — Whitney Rawls(https://www.linkedin.com/in/wrawls) (Guest Speaker) 
 
-**12:30** — Lunch. GUEST SPEAKER:
+**9:45 - 10:00** — Brainstorm & Teaming with Rob Davis (Code for Fort. Lauderdale(http://codeforftl.org/))
 
-**01:30** — Resume
+**10:00 - 12:00** — Start projects  
 
-**04:00** — Prep Presentations
+**12:00 - 1:00** — Lunch. GUEST SPEAKER:
 
-Each group will present their progress, information discovered and supplied for their respect coverage areas.
+**01:00** — Resume
 
-**04:30** — Presentations
+**04:15** — Presentations (5 minutes per team or individual)
+
+**04:45** — Judging (Prizes and awards presentation)
 
 **05:00** — Closing Remarks / END
 
