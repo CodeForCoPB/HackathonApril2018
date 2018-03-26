@@ -15,7 +15,11 @@ Questions? Email us at civicdata@copbfl.com
 
 * [data.world](http://data.world)
 
+* [Convert to JSON](http://www.convertcsv.com/csv-to-json.htm)
+
 * [Google My Maps](https://www.google.com/mymaps/)
+
+
 
 
 ### :book: Guides
@@ -48,7 +52,7 @@ Benefit: No brainer…now let’s have FUN!!!
 
 **9:00** — Breakfast
 
-**9:20 - 9:30** — Opening Remarks ([Mayor](http://pompanobeachfl.gov/pages/commission_mayor/mayor))
+**9:20 - 9:30** — Opening Remarks ([Mayor Lamar Fisher](http://pompanobeachfl.gov/pages/commission_mayor/mayor))
 
 **9:30 - 9:45** — [Whitney Rawls](https://www.linkedin.com/in/wrawls) (Guest Speaker) 
 
