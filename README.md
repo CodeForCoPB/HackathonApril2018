@@ -20,15 +20,13 @@ Questions? Email us at civicdata@copbfl.com
 * [Google My Maps](https://www.google.com/mymaps/)
 
 
-
-
 ### :book: Guides
 
 ## Here is some data we recommend you work with:
 
 ## Topics
 1.	Inspection in Real Time / Where is my Inspector?
-Description: Build a solution that let’s residents know when city inspectors will arrive? 
+Description: Build a solution that lets residents know when city inspectors will arrive? 
 Benefit: Bridging this gap will improve service and transparency to residents.
 
 2.	Decision Tree / What do I need?
