@@ -22,8 +22,6 @@ Questions? Email us at civicdata@copbfl.com
 
 ### :book: Guides
 
-## Here is some data we recommend you work with:
-
 ## Topics
 1.	Inspection in Real Time / Where is my Inspector?
 Description: Build a solution that lets residents know when city inspectors will arrive? 
