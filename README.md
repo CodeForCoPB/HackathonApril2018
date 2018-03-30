@@ -46,23 +46,23 @@ Benefit: No brainer…now let’s have FUN!!!
 
 ## Schedule
 
-**9:00** — Breakfast
+**9:00** — Breakfast :doughnut:
 
 **9:20 - 9:30** — Opening Remarks ([Mayor Lamar Fisher](http://pompanobeachfl.gov/pages/commission_mayor/mayor))
 
 **9:30 - 9:45** — [Whitney Rawls](https://www.linkedin.com/in/wrawls) (Guest Speaker) 
 
-**9:45 - 10:00** — Brainstorm & Teaming with Rob Davis [Code for Fort. Lauderdale](http://codeforftl.org/)
+**9:45 - 10:00** — Brainstorm & Teaming with Rob Davis [Code for Fort. Lauderdale](http://codeforftl.org/) :bulb:
 
 **10:00 - 12:00** — Start projects  
 
-**12:00 - 1:00** — Lunch
+**12:00 - 1:00** — Lunch :hamburger:
 
 **01:00** — Resume
 
-**04:15** — Presentations (5 minutes per team or individual)
+**04:15** — Presentations (5 minutes per team or individual) :bar_chart:
 
-**04:45** — Judging (Prizes and awards presentation)
+**04:45** — Judging (Prizes and awards presentation) 
 
 **05:00** — Closing Remarks / END
 
