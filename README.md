@@ -19,6 +19,9 @@ Questions? Email us at civicdata@copbfl.com
 
 * [Google My Maps](https://www.google.com/mymaps/)
 
+### :bookmark_tabs: DataSets
+* [Catalog of Datasets in Florida](https://catalog.data.gov/dataset?tags=florida)
+
 
 ### :book: Guides
 
