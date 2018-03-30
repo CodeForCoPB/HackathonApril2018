@@ -6,6 +6,8 @@
 
 - [&#x270d;&#xfe0f; Participant Registration ](https://www.eventbrite.com/e/city-of-pompano-beach-hackathon-tickets-43900778410?aff=ehomecard)
 
+- :page_with_curl: [Topics](https://github.com/CodeForCoPB/HackathonApril2018/issues)
+
 
 Questions? Email us at civicdata@copbfl.com 
 
