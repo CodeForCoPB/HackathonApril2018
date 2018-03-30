@@ -19,9 +19,9 @@ Questions? Email us at civicdata@copbfl.com
 
 * [Convert to JSON](http://www.convertcsv.com/csv-to-json.htm)
 
-* Additional Resources [Google My Maps](https://www.google.com/mymaps/)
+* [Google My Maps](https://www.google.com/mymaps/)
 
-* [Hacking Template](https://github.com/CodeForCoPB/HackathonApril2018/blob/master/Hack.md)
+* Additional Resources-[Hacking Template](https://github.com/CodeForCoPB/HackathonApril2018/blob/master/Hack.md)
 
 ### :bookmark_tabs: DataSets
 * [Catalog of Datasets in Florida](https://catalog.data.gov/dataset?tags=florida)
