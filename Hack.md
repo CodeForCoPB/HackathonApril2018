@@ -27,8 +27,6 @@ If you have chose to hack on a project you are in the right place.
 
 4. Get building.
 
-## Challenges / Topics
-
 ## Visualization and Chart Libraries
 
 * [Google Charts](https://developers.google.com/chart/)
