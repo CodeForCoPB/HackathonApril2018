@@ -71,7 +71,8 @@ Benefit: No brainer…now let’s have FUN!!!
 - Length: 5 mins
 - :computer: [Please see presentation template](https://github.com/CodeForCoPB/HackathonApril2018/blob/master/COPBF_example_Presentation%20Slides.pptx)
 
-## Wondering how to propose or discuss your project ideas?
+## Discuss your project ideas, see recommendations for each Topic.
+[Topics/Issues](https://github.com/CodeForCoPB/HackathonApril2018/issues)
 
 [GitHub Issues](https://guides.github.com/features/issues/) works just like any other commenting system on the Internet:
 
