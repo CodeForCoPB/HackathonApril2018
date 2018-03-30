@@ -24,7 +24,7 @@ Questions? Email us at civicdata@copbfl.com
 
 ## Topics
 1.	Inspection in Real Time / Where is my Inspector?
-Description: Build a solution that lets residents know when city inspectors will arrive? 
+Description: Build a solution that lets residents know when city inspectors will arrive.
 Benefit: Bridging this gap will improve service and transparency to residents.
 
 2.	Decision Tree / What do I need?
@@ -69,7 +69,7 @@ Benefit: No brainer…now let’s have FUN!!!
 ## Presentation Information
 
 - Length: 5 mins
-- :computer: Please see presentation template above
+- :computer: [Please see presentation template](https://github.com/CodeForCoPB/HackathonApril2018/blob/master/COPBF_example_Presentation%20Slides.pptx)
 
 ## Wondering how to propose or discuss your project ideas?
 
