@@ -22,10 +22,7 @@ Questions? Email us at civicdata@copbfl.com
 ### :bookmark_tabs: DataSets
 * [Catalog of Datasets in Florida](https://catalog.data.gov/dataset?tags=florida)
 
-
-### :book: Guides
-
-## Topics 
+## :book: Topics 
 1.	Inspection in Real Time / Where is my Inspector?
 Description: Build a solution that lets residents know when city inspectors will arrive.
 Benefit: Bridging this gap will improve service and transparency to residents.
