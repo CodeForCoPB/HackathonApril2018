@@ -54,7 +54,7 @@ Benefit: No brainer…now let’s have FUN!!!
 
 **9:20 - 9:30** — Opening Remarks ([Mayor Lamar Fisher](http://pompanobeachfl.gov/pages/commission_mayor/mayor))
 
-**9:30 - 9:45** — [Whitney Rawls](https://www.linkedin.com/in/wrawls) (Guest Speaker) 
+**9:30 - 9:45** — (Guest Speaker) 
 
 **9:45 - 10:00** — Brainstorm & Teaming with Rob Davis [Code for Fort. Lauderdale](http://codeforftl.org/) :bulb:
 
