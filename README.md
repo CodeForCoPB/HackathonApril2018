@@ -23,8 +23,11 @@ Questions? Email us at civicdata@copbfl.com
 
 * Additional Resources-[Hacking Template](https://github.com/CodeForCoPB/HackathonApril2018/blob/master/Hack.md)
 
+
 ### :bookmark_tabs: DataSets
+* [POMPANO BEACH DATASETS-OpenGov](http://showcase.ogopendata.com/en/organization/pompano-beach/portal/home)
 * [Catalog of Datasets in Florida](https://catalog.data.gov/dataset?tags=florida)
+
 
 ## :book: Topics 
 1.	Inspection in Real Time / Where is my Inspector?
