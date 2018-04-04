@@ -50,6 +50,8 @@ Benefit: Quickly identify and respond to vacant or abandoned property that can b
 Description: If you think of any ideas on your own, pick our brains and create your own solution.  Use alternative suggestions or create your own ideas that you can create a solution for.
 Benefit: No brainer…now let’s have FUN!!!
 
+## Teams
+* Limit teams to no more than 4 members! 
 
 ## Schedule
 
