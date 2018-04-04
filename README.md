@@ -1,4 +1,4 @@
-# HackathonApril2018
+# [HackathonApril2018](http://showcase.ogopendata.com/en/organization/pompano-beach/portal/home)
 
 # City of Pompano Beach Civic Hackathon :bar_chart:
 
@@ -25,7 +25,7 @@ Questions? Email us at civicdata@copbfl.com
 
 
 ### :bookmark_tabs: DataSets
-* [POMPANO BEACH DATASETS-OpenGov](http://showcase.ogopendata.com/en/organization/pompano-beach/portal/home)
+(http://showcase.ogopendata.com/en/organization/pompano-beach/portal/home)
 * [Catalog of Datasets in Florida](https://catalog.data.gov/dataset?tags=florida)
 
 
