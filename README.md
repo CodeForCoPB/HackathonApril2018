@@ -58,9 +58,9 @@ Benefit: No brainer…now let’s have FUN!!!
 
 **9:00** — Breakfast :doughnut:
 
-**9:20 - 9:30** — Opening Remarks ([Mayor Lamar Fisher](http://pompanobeachfl.gov/pages/commission_mayor/mayor))
+**9:20 - 9:30** — Opening Remarks 
 
-**9:30 - 9:45** — (Guest Speaker) 
+**9:30 - 9:45** — ([Senator Perry E. Thurston, Jr.](https://en.wikipedia.org/wiki/Perry_E._Thurston_Jr.)) 
 
 **9:45 - 10:00** — Brainstorm & Teaming with Rob Davis [Code for Fort. Lauderdale](http://codeforftl.org/) :bulb:
 
