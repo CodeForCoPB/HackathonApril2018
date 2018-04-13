@@ -54,6 +54,7 @@ Benefit: No brainer…now let’s have FUN!!!
 
 ## Teams
 * Limit teams to no more than 4 members! 
+* [Code of Conduct](https://github.com/CodeForCoPB/HackathonApril2018/blob/master/CodeOfConduct.docx)
 * [Judging Criteria](https://github.com/CodeForCoPB/HackathonApril2018/blob/master/City%20of%20Pompano%20Beach%20Scorecard.docx)
 
 ## Schedule
